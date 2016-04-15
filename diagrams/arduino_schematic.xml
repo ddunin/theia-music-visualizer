@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<circuit version="1.1" application="Circuit Diagram" appversion="3.1.0.3" width="800" height="600">
+  <component type="Transistor" x="240" y="420" orientation="vertical" size="50" flipped="False" guid="247a790e-c7aa-43ca-9e0c-c524257c0cd5" t="NPN" />
+  <component type="Transistor" x="240" y="160" orientation="vertical" size="50" flipped="False" guid="247a790e-c7aa-43ca-9e0c-c524257c0cd5" t="NPN" />
+  <component type="Resistor" x="160" y="190" orientation="horizontal" size="50" flipped="False" guid="dab6d52b-51a0-49b0-bc40-3cda966148aa" show="Resistance" text="R1" resistance="2200" t="Standard" />
+  <component type="Resistor" x="160" y="450" orientation="horizontal" size="50" flipped="False" guid="dab6d52b-51a0-49b0-bc40-3cda966148aa" show="Resistance" text="R1" resistance="2200" t="Standard" />
+  <component type="External Connection" x="90" y="190" orientation="horizontal" size="70" flipped="False" guid="c9e06233-ea3e-49c6-ad03-914e8871787b" text="Pin 12" textpos="False" />
+  <component type="External Connection" x="90" y="450" orientation="horizontal" size="70" flipped="False" guid="c9e06233-ea3e-49c6-ad03-914e8871787b" text="Pin 13" textpos="False" />
+  <component type="Source" x="240" y="470" orientation="vertical" size="30" flipped="False" guid="8979c617-b041-4069-8769-0b76dc0e6c52" voltage="0" frequency="50" t="Earth" />
+  <component type="Source" x="240" y="210" orientation="vertical" size="30" flipped="False" guid="8979c617-b041-4069-8769-0b76dc0e6c52" voltage="0" frequency="50" t="Earth" />
+  <component type="Diode" x="240" y="120" orientation="vertical" size="40" flipped="True" guid="50cc071a-0abc-4276-a7a0-a5bff9cc0374" t="LED" />
+  <component type="Diode" x="240" y="390" orientation="vertical" size="30" flipped="True" guid="50cc071a-0abc-4276-a7a0-a5bff9cc0374" t="LED" />
+  <component type="Label" x="180" y="400" orientation="horizontal" size="50" flipped="False" guid="d93dd6a8-4f47-441a-83d9-e3aa719a2ecb" text="Green Laser Diode" />
+  <component type="Label" x="170" y="140" orientation="horizontal" size="0" flipped="False" guid="d93dd6a8-4f47-441a-83d9-e3aa719a2ecb" text="Blue/Violet Laser Diode" />
+  <component type="Label" x="270" y="190" orientation="vertical" size="50" flipped="False" guid="d93dd6a8-4f47-441a-83d9-e3aa719a2ecb" text=" 2N3904" />
+  <component type="Label" x="270" y="450" orientation="vertical" size="0" flipped="False" guid="d93dd6a8-4f47-441a-83d9-e3aa719a2ecb" text="2N3904" />
+  <component type="Transistor" x="610" y="370" orientation="vertical" size="50" flipped="False" guid="247a790e-c7aa-43ca-9e0c-c524257c0cd5" t="NPN" />
+  <component type="Transistor" x="610" y="150" orientation="vertical" size="50" flipped="False" guid="247a790e-c7aa-43ca-9e0c-c524257c0cd5" t="NPN" />
+  <component type="Transistor" x="610" y="40" orientation="vertical" size="50" flipped="True" guid="247a790e-c7aa-43ca-9e0c-c524257c0cd5" t="NPN" />
+  <component type="Transistor" x="610" y="490" orientation="vertical" size="50" flipped="True" guid="247a790e-c7aa-43ca-9e0c-c524257c0cd5" t="NPN" />
+  <component type="Source" x="240" y="70" orientation="vertical" size="50" flipped="False" guid="8979c617-b041-4069-8769-0b76dc0e6c52" voltage="5" frequency="50" t="DC" />
+  <component type="Source" x="240" y="330" orientation="vertical" size="60" flipped="False" guid="8979c617-b041-4069-8769-0b76dc0e6c52" voltage="5" frequency="50" t="DC" />
+  <component type="Source" x="560" y="570" orientation="horizontal" size="40" flipped="False" guid="8979c617-b041-4069-8769-0b76dc0e6c52" voltage="5" frequency="50" t="DC" />
+  <component type="Resistor" x="500" y="520" orientation="horizontal" size="70" flipped="False" guid="dab6d52b-51a0-49b0-bc40-3cda966148aa" show="Resistance" text="R1" resistance="22000" t="Standard" />
+  <component type="Resistor" x="500" y="400" orientation="horizontal" size="70" flipped="False" guid="dab6d52b-51a0-49b0-bc40-3cda966148aa" show="Resistance" text="R1" resistance="22000" t="Standard" />
+  <component type="Resistor" x="500" y="70" orientation="horizontal" size="70" flipped="False" guid="dab6d52b-51a0-49b0-bc40-3cda966148aa" show="Resistance" text="R1" resistance="22000" t="Standard" />
+  <component type="Resistor" x="500" y="180" orientation="horizontal" size="70" flipped="False" guid="dab6d52b-51a0-49b0-bc40-3cda966148aa" show="Resistance" text="R1" resistance="22000" t="Standard" />
+  <component type="External Connection" x="360" y="460" orientation="horizontal" size="100" flipped="False" guid="c9e06233-ea3e-49c6-ad03-914e8871787b" text="Pin 10" textpos="False" />
+  <component type="Source" x="610" y="420" orientation="vertical" size="30" flipped="False" guid="8979c617-b041-4069-8769-0b76dc0e6c52" voltage="0" frequency="50" t="Earth" />
+  <component type="Source" x="610" y="110" orientation="vertical" size="40" flipped="False" guid="8979c617-b041-4069-8769-0b76dc0e6c52" voltage="5" frequency="50" t="DC" />
+  <component type="External Connection" x="360" y="120" orientation="horizontal" size="100" flipped="False" guid="c9e06233-ea3e-49c6-ad03-914e8871787b" text="Pin 9" textpos="False" />
+  <component type="Source" x="570" y="40" orientation="horizontal" size="30" flipped="False" guid="8979c617-b041-4069-8769-0b76dc0e6c52" voltage="0" frequency="50" t="Earth" />
+  <component type="Motor" x="610" y="330" orientation="horizontal" size="120" flipped="False" guid="be9baf1f-61e9-4463-8a18-17b5e021087f" />
+  <component type="Label" x="240" y="60" orientation="vertical" size="50" flipped="False" guid="d93dd6a8-4f47-441a-83d9-e3aa719a2ecb" text="+5 VDC" />
+  <component type="Label" x="610" y="100" orientation="vertical" size="0" flipped="False" guid="d93dd6a8-4f47-441a-83d9-e3aa719a2ecb" text="+5 VDC" />
+  <component type="Label" x="540" y="570" orientation="vertical" size="0" flipped="False" guid="d93dd6a8-4f47-441a-83d9-e3aa719a2ecb" text="+5 VDC" />
+  <component type="Label" x="240" y="320" orientation="vertical" size="0" flipped="False" guid="d93dd6a8-4f47-441a-83d9-e3aa719a2ecb" text="+5 VDC" />
+  <component type="wire" x="610" y="540" size="30" orientation="vertical" />
+  <component type="wire" x="600" y="570" size="10" orientation="horizontal" />
+  <component type="wire" x="460" y="520" size="40" orientation="horizontal" />
+  <component type="wire" x="460" y="460" size="60" orientation="vertical" />
+  <component type="wire" x="460" y="400" size="40" orientation="horizontal" />
+  <component type="wire" x="460" y="400" size="60" orientation="vertical" />
+  <component type="wire" x="610" y="200" size="10" orientation="vertical" />
+  <component type="wire" x="460" y="120" size="60" orientation="vertical" />
+  <component type="wire" x="460" y="180" size="40" orientation="horizontal" />
+  <component type="wire" x="460" y="70" size="50" orientation="vertical" />
+  <component type="wire" x="460" y="70" size="40" orientation="horizontal" />
+  <component type="wire" x="600" y="40" size="10" orientation="horizontal" />
+  <component type="wire" x="610" y="90" size="120" orientation="horizontal" />
+  <component type="wire" x="730" y="280" size="50" orientation="vertical" />
+  <component type="wire" x="610" y="490" size="120" orientation="horizontal" />
+  <component type="wire" x="730" y="330" size="160" orientation="vertical" />
+  <component type="wire" x="610" y="330" size="40" orientation="vertical" />
+  <component type="wire" x="610" y="210" size="120" orientation="vertical" />
+  <component type="wire" x="730" y="90" size="190" orientation="vertical" />
+</circuit>
